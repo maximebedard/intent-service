@@ -7,6 +7,5 @@ Can you do this and this please ?
 I don't think this will work because
 @Edouard-chin can we close this?
 Yes :tada: !! :dancer:
-cc @Shopify/shopify-payments
 Tested on IE11 for both Window 7 and Windows 8.1
 We can test on mobile devices to make sure
