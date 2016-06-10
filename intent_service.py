@@ -3,7 +3,7 @@ import classifier
 
 app = Flask(__name__)
 
-@app.route('/comment', methods=["GET"])
+@app.route('/', methods=["POST"])
 def comment_intent():
   body = request.args.get('body', '')
   intent = classifier.intent(body)
